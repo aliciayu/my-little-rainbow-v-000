@@ -1,5 +1,5 @@
 div {
-  border: 30px solid; /* this is short hand for setting
+  border: 20px solid; /* this is short hand for setting
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
@@ -9,25 +9,25 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
-  #rojo {
+  #red {
     border-top-color:#ff0000;
   }
-  #anarangado {
+  #orange {
     border-top-color:#ffa500;
   }
-  #amarillo {
+  #yellow {
     border-top-color:#ffff00;
   }
-  #verde {
+  #green {
     border-top-color:#00bc3f;
   }
-  #azul {
+  #blue {
     border-top-color:#0066ff;
   }
   #indigo {
     border-top-color:#8a2be2;
   }
-  #violeta {
+  #violet {
     border-top-color:#d300c9;
   }
 }
